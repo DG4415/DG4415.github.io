@@ -36,7 +36,7 @@ const CONFIG = {
   },
   social: {
     website: 'https://DG4415.github.io',
-    email: 'dg4415@naver.com',
+    email: 'donggeon4415@naver.com',
   },
   skills: [
     'Python',
@@ -73,7 +73,7 @@ const CONFIG = {
     {
       title: 'About Me',
       description:
-        'Hello. My name is Donggeon Kim. I am attend at Sungkyunkwan University. I major in Computer Science, and I hope to become an AI engineer in the future.',
+        'Hello. My name is Donggeon Kim. I am attend Sungkyunkwan University. I major in Computer Science, and I hope to become an AI engineer in the future.',
     },
     {
       title: 'Career Summary',
